@@ -1,0 +1,1 @@
+yarn add @verixyz/core @verixyz/credential-w3c @verixyz/data-store @verixyz/did-manager @verixyz/did-provider-ethr @verixyz/did-provider-web @verixyz/did-resolver @verixyz/key-manager @verixyz/kms-local  ethr-did-resolver web-did-resolver
